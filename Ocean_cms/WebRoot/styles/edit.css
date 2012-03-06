@@ -1,9 +1,7 @@
 #edit {
 	width: 1024px;
-	height: 80px;
+	height: 300px;
 	border: 1px solid #AAAAAA;
-	margin-left: auto;
-	margin-right: auto;
 	background: #6699CC;
 }
 
@@ -12,14 +10,20 @@
 }
 
 #edit_nav_menu {
-	float:left;
+	width: 500px;
+	float: left;
+	margin-left: 20px;
 }
 
 #edit_nav_menu li {
-	float:left;
-	display:block;
+	float: left;
+	display: block;
+	width: 90px;
+	margin-right: 4px;
+	overflow: hidden;
+	cursor: pointer;
 }
 
 #edit_nav_menu li a {
-	
+	color: white;
 }

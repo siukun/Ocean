@@ -11,3 +11,8 @@ img {
 a {
 	text-decoration: none;
 }
+
+.autoCenter {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
