@@ -1,1 +1,13 @@
 @import url("cssreset-context-min.css");
+
+body {
+	font: 14px/1.8em Helvetica, Arial, sans-serif;
+}
+
+img {
+	border: none;
+}
+
+a {
+	text-decoration: none;
+}

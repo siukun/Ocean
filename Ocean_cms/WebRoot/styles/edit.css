@@ -1,8 +1,25 @@
-#edit{
-	width:1024px;
-	height:80px;
-	border:1px solid #AAAAAA;
-	margin-left:auto;
-	margin-right:auto;
-	background:#6699CC;
+#edit {
+	width: 1024px;
+	height: 80px;
+	border: 1px solid #AAAAAA;
+	margin-left: auto;
+	margin-right: auto;
+	background: #6699CC;
+}
+
+#edit_nav {
+	float: left;
+}
+
+#edit_nav_menu {
+	float:left;
+}
+
+#edit_nav_menu li {
+	float:left;
+	display:block;
+}
+
+#edit_nav_menu li a {
+	
 }
