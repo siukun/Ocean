@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Ocean_cms"
+  id="myeclipse.1331013325046"
+  context-root="/Ocean_cms"
+  j2ee-spec="5.0"
+  archive="Ocean_cms.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
