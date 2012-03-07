@@ -15,4 +15,5 @@ a {
 .autoCenter {
 	margin-left: auto !important;
 	margin-right: auto !important;
+	position: relative;
 }

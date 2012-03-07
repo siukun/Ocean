@@ -1,28 +1,29 @@
 #edit {
 	width: 1024px;
-	height: 300px;
-	border: 1px solid #AAAAAA;
+	height: 900px;
 	background: #6699CC;
 }
 
 #edit_nav {
+	width: 100%;
 	float: left;
+	display: block;
 }
 
 #edit_nav_menu {
-	display:block;
-	width: 400px;
+	width: 450px;
 	float: left;
-	margin-left: 20px;
+	padding-left: 20px;
+	display: block;
 }
 
 #edit_nav_menu li {
+	margin-right: 20px;
 	float: left;
-	display: block;
 	width: 90px;
-	margin-right: 4px;
 	overflow: hidden;
 	cursor: pointer;
+	float: left;
 }
 
 #edit_nav_menu li a {
@@ -30,19 +31,35 @@
 }
 
 #edit_nav_usertool {
-	display:block;
-	margin-left: 850px;
+	width: 250px;
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 0px;
 }
 
 #edit_nav_usertool li {
-	float:left;
-	display: block;
+	display: inline;
+	float: left;
 	width: 50px;
 	margin-right: 4px;
 	overflow: hidden;
 	cursor: pointer;
+	float: left;
 }
 
 #edit_nav_usertool a {
 	color: white;
+}
+
+#edit_content {
+	float:left;
+	width: 100%;
+	display:block;;
+}
+
+#edit_content_left {
+	background-color: #99CCFF;
+	width: 300px;
+	height: 500px;
 }
